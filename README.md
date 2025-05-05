@@ -4,6 +4,9 @@ CryptoPoke is an exciting GameFi project that bridges the nostalgia of cherished
 
 <img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-cryptopoke/refs/heads/main/cryptopoke.png" />
 
+## How to Play
+For detailed instructions on how to play CryptoPoke, please check out the [How to Play](HOW_TO_PLAY.md) guide.
+
 ## Tech Stack
 
 - **Next.js**: A React framework for building fast, server-rendered web applications with features like API routes and server-side rendering.
