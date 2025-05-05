@@ -1,1 +1,2 @@
-# lisk-builders-challange-cryptopoke
+# Lisk Builders Challange - Cryptopoke
+This repository contains CryptoPoke which an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation. 
