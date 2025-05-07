@@ -5,7 +5,7 @@
 ### Slide 1: **Title Slide**
 
 **CryptoPoke**
-**Catch. Train. Battle. Earn.**
+**Catch. Train. Battle. Earn. Sleep. Restart.**
 *A Revolutionary Pokémon-Inspired Blockchain Game*
 
 ---
