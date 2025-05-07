@@ -58,13 +58,6 @@ Deployed on **Lisk Sepolia Testnet**, CryptoPoke utilizes blockchain for transpa
 * Trade Pokémon NFTs using IDRX ( future plan ).
 * A small marketplace fee supports community growth and development ( PokeFund Corner ).
 
-**Cross-Token Collaboration and Flexibility:**
-
-* PokeSwap Integration ( future plan):
-    Enable seamless swapping between the stable token and other in-game or external tokens.
-    Collaborate with other token ecosystems to broaden user engagement and economy.
-* Multi-Currency Support ( future plan):
-    Allow the stable token to coexist with additional token options as the base in-game currency.
 ---
 
 ### Slide 5: **Value Proposition**
@@ -88,6 +81,9 @@ Deployed on **Lisk Sepolia Testnet**, CryptoPoke utilizes blockchain for transpa
 4. **Staking Options:** Earn passive income with stable token staking.
 5. **Cross-Chain Expansion:** Integrate with Ethereum, Binance Smart Chain, and Polygon.
 6. **Guild Wars:** Form alliances for collaborative gameplay and resource sharing.
+7. Cross-Token Collaboration and Flexibility:
+PokeSwap Integration (future plan): Enable seamless swapping between the stable token and other in-game or external tokens. Collaborate with other token ecosystems to broaden user engagement and economy.
+Multi-Currency Support (future plan): Allow the stable token to coexist with additional token options as the base in-game currency.
 
 ---
 
