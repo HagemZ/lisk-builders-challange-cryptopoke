@@ -1,15 +1,15 @@
-# How to Play CryptoPoke
+# How to Play Moonsters
 
-Welcome to CryptoPoke! Here's how you can get started:
+Welcome to Moonsters! Here's how you can get started:
 
 ## Step 1: Setting Up
 - Make sure you have the required blockchain wallet installed, or you can use your Gmail to connect by selecting "Connect Wallet" at the prompt.
 - Link your wallet to the game.
 
 ## Step 2: Gameplay and Rules
-- **PokéDex**: A place where you can search, compare, and capture any Pokémon you desire.
-- **PokéTrain**: A place to evolve and join battles (if available).
-- **PokéBoard**: A place to check the current battle round. The information (if available) will include:
+- **MoonDex**: A place where you can search, compare, and capture any Pokémon you desire.
+- **MoonTrain**: A place to evolve and join battles (if available).
+- **MoonBoard**: A place to check the current battle round. The information (if available) will include:
    - Current Season
    - Current Round
    - Current Participants per round
@@ -30,5 +30,5 @@ Welcome to CryptoPoke! Here's how you can get started:
 - When the season ends, the top 3 users/participants will be rewarded.
 
 ## NOTICE
-- CryptoPoke is currently deployed on the Lisk Sepolia Testnet.
+- Moonsters is currently deployed on the Lisk Sepolia Testnet.
 - For hackathon purposes, IDRX Testnet will be used as the base currency.
