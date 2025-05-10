@@ -1,37 +1,37 @@
-**Pitch Deck: CryptoPoke - The Future of Play-to-Earn Gaming**
+**Pitch Deck: Moonsters - The Future of Play-to-Earn Gaming**
 
 ---
 
 ### Slide 1: **Title Slide**
 
-**CryptoPoke**
+**Moonsters**
 **Catch. Train. Battle. Earn. Sleep. Restart.**
-*A Revolutionary Pokémon-Inspired Blockchain Game*
+*A Revolutionary Moonster-Inspired Blockchain Game*
 
 ---
 
 ### Slide 2: **Introduction**
 
-**What is CryptoPoke?**
-CryptoPoke blends Pokémon nostalgia with Web3 innovation, offering players:
+**What is Moonsters?**
+Moonsters blends Moonster nostalgia with Web3 innovation, offering players:
 
 * The ability to capture, train, and battle digital creatures.
 * Opportunities to earn through strategic gameplay.
-* A dynamic marketplace for trading and evolving assets.
+* A dynamic sytems for evolving assets.
 
-Deployed on **Lisk Sepolia Testnet**, CryptoPoke utilizes blockchain for transparency, ownership, and a player-driven economy.
+Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transparency, ownership, and a player-driven economy.
 
 ---
 
 ### Slide 3: **Gameplay Highlights**
 
-1. **PokéDex**
+1. **MoonDex**
 
    * Discover, compare, and capture your favorite creatures.
-2. **PokéTrain**
+2. **MoonTrain**
 
-   * Strengthen your Pokémon and prepare them for battles.
-3. **PokéBoard**
+   * Strengthen your Moonster and prepare them for battles.
+3. **MoonBoard**
 
    * Access live updates on seasons, matches, participants, and leaderboards.
 4. **Battleground**
@@ -55,17 +55,17 @@ Deployed on **Lisk Sepolia Testnet**, CryptoPoke utilizes blockchain for transpa
 
 **Marketplace Features:**
 
-* Trade Pokémon NFTs using IDRX ( future plan ).
-* A small marketplace fee supports community growth and development ( PokeFund Corner ).
+* Trade Moonster NFTs using IDRX ( future plan ).
+* A small marketplace fee supports community growth and development ( MoonFund Corner ).
 
 ---
 
 ### Slide 5: **Value Proposition**
 
-**Why CryptoPoke?**
+**Why Moonsters?**
 
-* **Exclusive Ownership:** Each Pokémon is a tradable, unique NFT ( have a match record ).
-* **Play-to-Earn Model:** Engage in gameplay to earn stable tokens.
+* **Exclusive Ownership:** Each Moonster is a tradable, unique NFT ( have a match record ) in future plan.
+* **Play-to-Earn Model:** Engage in gameplay to earn stable tokens ( existing ).
 * **Sustainable Economy:** Leveraging stable token mechanics for durability.
 * **Community-Centric:** Players shape the game’s future through governance.
 
@@ -76,13 +76,16 @@ Deployed on **Lisk Sepolia Testnet**, CryptoPoke utilizes blockchain for transpa
 **Expanding CryptoPoke’s Universe:**
 
 1. **Skill-Based Battles:** Real-time multiplayer strategy options.
-2. **Breeding Mechanics:** Generate unique Pokémon through breeding.
+2. **Breeding Mechanics:** Generate unique Moonster through breeding.
 3. **Augmented Reality (AR):** Capture creatures in real-world scenarios.
 4. **Staking Options:** Earn passive income with stable token staking.
 5. **Cross-Chain Expansion:** Integrate with Ethereum, Binance Smart Chain, and Polygon.
 6. **Guild Wars:** Form alliances for collaborative gameplay and resource sharing.
 7. Cross-Token Collaboration and Flexibility:
-PokeSwap Integration (future plan): Enable seamless swapping between the stable token and other in-game or external tokens. Collaborate with other token ecosystems to broaden user engagement and economy.
+PokeSwap Integration (future plan): Enable seamless swapping between the stable token and other in-game or external tokens. 
+
+Collaborate with other token ecosystems to broaden user engagement and economy.
+
 Multi-Currency Support (future plan): Allow the stable token to coexist with additional token options as the base in-game currency.
 
 ---
@@ -99,7 +102,7 @@ Multi-Currency Support (future plan): Allow the stable token to coexist with add
 
 **Collectors**
 
-* Accumulate rare and tradable Pokémon NFTs.
+* Accumulate rare and tradable Moonster NFTs ( Marketplace Corner in future).
 
 **Investors**
 
@@ -117,19 +120,19 @@ Multi-Currency Support (future plan): Allow the stable token to coexist with add
 **Aspirations:**
 
 * Launch on IDRX Mainnet with expanded features.
-* Garner 50,000 active users in Year 1.
+* Garner 1,000 active users in Year 1.
 * Collaborate with leading blockchain networks for cross-chain functionality.
 
 ---
 
 ### Slide 9: **Engage Today**
 
-**Step Into the CryptoPoke World!**
+**Step Into the Moonsters World!**
 
 * Join a groundbreaking evolution in blockchain gaming.
-* Capture your first Pokémon and begin your journey.
+* Capture your first Moonster and begin your journey.
 
-**Website:** [CryptoPoke.BlockDev.My.Id](#)
+**Website:** [Moonsters.BlockDev.My.Id](#)
 **Follow Us:** Connect with us on social media (Twitter, Discord, etc.)
 
 ---
