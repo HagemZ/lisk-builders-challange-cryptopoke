@@ -17,7 +17,7 @@ Moonsters blends nostalgia with Web3 innovation, offering players:
 
 * The ability to capture, train, and battle digital creatures.
 * Opportunities to earn through strategic gameplay.
-* A dynamic sytems for evolving assets.
+* A dynamic systems for evolving assets.
 
 Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transparency, ownership, and a player-driven economy.
 
