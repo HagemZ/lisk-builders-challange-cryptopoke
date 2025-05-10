@@ -2,7 +2,7 @@
 
 CryptoPoke is an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation.
 
-<img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-cryptopoke/refs/heads/main/cryptopoke.png" />
+<img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-moonsters/refs/heads/main/moonsters.png" />
 
 ## How to Play
 For detailed instructions on how to play CryptoPoke, please check out the [How to Play](HOW_TO_PLAY.md) guide.
