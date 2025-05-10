@@ -7,7 +7,7 @@ Welcome to Moonsters! Here's how you can get started:
 - Link your wallet to the game.
 
 ## Step 2: Gameplay and Rules
-- **MoonDex**: A place where you can search, compare, and capture any Pokémon you desire.
+- **MoonDex**: A place where you can search, compare, and capture any Moonsters you desire.
 - **MoonTrain**: A place to evolve and join battles (if available).
 - **MoonBoard**: A place to check the current battle round. The information (if available) will include:
    - Current Season
@@ -22,7 +22,7 @@ Welcome to Moonsters! Here's how you can get started:
 - **Join Battle Fee**: Charge fee for every time user join the battle ground
 
 ## Step 4 : Winning
-- Each user/trainer can only send 1 of their Pokémon to join the battleground.
+- Each user/trainer can only send 1 of their Moonsters to join the battleground.
 - Each round will have a maximum of 5 matches (10 participants, or 10 wallet addresses). 
 - Matches will be assigned randomly to each user.
 - After a round, once it is marked as "completed" the winners of each match will receive rewards and points for the leaderboard.
