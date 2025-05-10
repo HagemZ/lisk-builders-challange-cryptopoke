@@ -1,11 +1,11 @@
-# Lisk Builders Challenge - CryptoPoke
+# Lisk Builders Challenge - Moonsters
 
-CryptoPoke is an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation.
+Moonsters is an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation.
 
 <img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-moonsters/refs/heads/main/moonsters.png" />
 
 ## How to Play
-For detailed instructions on how to play CryptoPoke, please check out the [How to Play](HOW_TO_PLAY.md) guide.
+For detailed instructions on how to play Moonsters, please check out the [How to Play](HOW_TO_PLAY.md) guide.
 
 ## Tech Stack
 
@@ -20,8 +20,8 @@ For detailed instructions on how to play CryptoPoke, please check out the [How t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HagemZ/lisk-builders-challange-cryptopoke.git
-   cd lisk-builders-challange-cryptopoke
+   git clone https://github.com/HagemZ/lisk-builders-challange-moonsters.git
+   cd lisk-builders-challange-moonsters
    ```
 
 2. Install dependencies:
