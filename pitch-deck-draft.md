@@ -13,7 +13,7 @@
 ### Slide 2: **Introduction**
 
 **What is Moonsters?**
-Moonsters blends Moonster nostalgia with Web3 innovation, offering players:
+Moonsters blends nostalgia with Web3 innovation, offering players:
 
 * The ability to capture, train, and battle digital creatures.
 * Opportunities to earn through strategic gameplay.
