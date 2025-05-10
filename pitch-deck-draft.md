@@ -17,7 +17,7 @@ Moonsters blends nostalgia with Web3 innovation, offering players:
 
 * The ability to capture, train, and battle digital creatures.
 * Opportunities to earn through strategic gameplay.
-* A dynamic systems for evolving assets.
+* A dynamic system for evolving assets.
 
 Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transparency, ownership, and a player-driven economy.
 
@@ -30,7 +30,7 @@ Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transpar
    * Discover, compare, and capture your favorite creatures.
 2. **MoonTrain**
 
-   * Strengthen your Moonster and prepare them for battles.
+   * Strengthen your Moonster and prepare it for battles.
 3. **MoonBoard**
 
    * Access live updates on seasons, matches, participants, and leaderboards.
@@ -55,7 +55,7 @@ Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transpar
 
 **Marketplace Features:**
 
-* Trade Moonster NFTs using IDRX ( future plan ).
+* Trade Moonster NFTs using IDRX (on plan ).
 * A small marketplace fee supports community growth and development ( MoonFund Corner ).
 
 ---
@@ -64,7 +64,7 @@ Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transpar
 
 **Why Moonsters?**
 
-* **Exclusive Ownership:** Each Moonster is a tradable, unique NFT ( have a match record ) in future plan.
+* **Exclusive Ownership:** Each Moonster is a tradable, unique NFT (with a match record ) in the future plan.
 * **Play-to-Earn Model:** Engage in gameplay to earn stable tokens ( existing ).
 * **Sustainable Economy:** Leveraging stable token mechanics for durability.
 * **Community-Centric:** Players shape the game’s future through governance.
@@ -82,11 +82,11 @@ Deployed on **Lisk Sepolia Testnet**, Moonsters utilizes blockchain for transpar
 5. **Cross-Chain Expansion:** Integrate with Ethereum, Binance Smart Chain, and Polygon.
 6. **Guild Wars:** Form alliances for collaborative gameplay and resource sharing.
 7. Cross-Token Collaboration and Flexibility:
-PokeSwap Integration (future plan): Enable seamless swapping between the stable token and other in-game or external tokens. 
+PokeSwap Integration (on plan): Enable seamless swapping between the stable token and other in-game or external tokens. 
 
-Collaborate with other token ecosystems to broaden user engagement and economy.
+Collaborate with other token ecosystems to broaden user engagement and the economy.
 
-Multi-Currency Support (future plan): Allow the stable token to coexist with additional token options as the base in-game currency.
+Multi-Currency Support (on plan): Allow the stable token to coexist with additional token options as the base in-game currency.
 
 ---
 
@@ -102,7 +102,7 @@ Multi-Currency Support (future plan): Allow the stable token to coexist with add
 
 **Collectors**
 
-* Accumulate rare and tradable Moonster NFTs ( Marketplace Corner in future).
+* Accumulate rare and tradable Moonster NFTs ( Marketplace Corner in the future).
 
 **Investors**
 
