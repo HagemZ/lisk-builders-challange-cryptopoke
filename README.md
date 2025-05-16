@@ -7,6 +7,7 @@ Moonsters is an exciting GameFi project that bridges the nostalgia of cherished 
 # Smart Contracts Documentation
 
 - **IDRX** : Stable Token used for primary transaction at monsters ( https://sepolia-blockscout.lisk.com/address/0x29960F35e33C6F380063bDcc4f2E82c46D5083AA?tab=contract )
+- **CryptoMoon** : Smart Contract for indexing moonsters creature and stats ( https://sepolia-blockscout.lisk.com/address/0xCc41b549b4A4d6217fE026f719dBaf960A72a7a1?tab=contract )
 
 ## How to Play
 For detailed instructions on how to play Moonsters, please check out the [How to Play](HOW_TO_PLAY.md) guide.
