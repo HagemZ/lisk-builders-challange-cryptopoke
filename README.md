@@ -4,6 +4,10 @@ Moonsters is an exciting GameFi project that bridges the nostalgia of cherished 
 
 <img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-moonsters/refs/heads/main/moonsters.png" />
 
+# Smart Contracts Documentation
+
+- **IDRX** : Stable Token used for primary transaction at monsters ( https://sepolia-blockscout.lisk.com/address/0x29960F35e33C6F380063bDcc4f2E82c46D5083AA?tab=contract )
+
 ## How to Play
 For detailed instructions on how to play Moonsters, please check out the [How to Play](HOW_TO_PLAY.md) guide.
 
