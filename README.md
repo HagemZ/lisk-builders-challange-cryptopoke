@@ -4,8 +4,8 @@ Moonsters is an exciting GameFi project that bridges the nostalgia of cherished 
 
 <img width="1440" alt="Moonsters Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-moonsters/refs/heads/main/moonsters.png" />
 
-# Smart Contracts
-For detailed Smart Contracts Moonsters, please check out the [Smart Contacts](smart-contract) folder.
+## Smart Contracts
+For detailed Smart Contracts Moonsters, please check out the [Smart Contracts](./smart-contracts) folder.
 
 ## How to Play
 For detailed instructions on how to play Moonsters, please check out the [How to Play](HOW_TO_PLAY.md) guide.
