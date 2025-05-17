@@ -1,14 +1,8 @@
-# Lisk Builders Challenge - Moonsters
+# Lisk Builders Challenge - CryptoPoke
 
-Moonsters is an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation.
+CryptoPoke is an exciting GameFi project that bridges the nostalgia of cherished childhood memories with the thrill of blockchain innovation.
 
-<img width="1440" alt="Moonsters Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-moonsters/refs/heads/main/moonsters.png" />
-
-# Smart Contracts
-For detailed Smart Contracts Moonsters, please check out the [Smart Contacts](smart-contract) folder.
-
-## How to Play
-For detailed instructions on how to play Moonsters, please check out the [How to Play](HOW_TO_PLAY.md) guide.
+<img width="1440" alt="CryptoPoke Screenshot" src="https://raw.githubusercontent.com/HagemZ/lisk-builders-challange-cryptopoke/refs/heads/main/cryptopoke.png" />
 
 ## Tech Stack
 
@@ -23,27 +17,31 @@ For detailed instructions on how to play Moonsters, please check out the [How to
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HagemZ/lisk-builders-challange-moonsters.git
-   cd lisk-builders-challange-moonsters
+   git clone https://github.com/HagemZ/lisk-builders-challange-cryptopoke.git
+   cd lisk-builders-challange-cryptopoke
    ```
 
-2. For development, install additional dependencies with the `--save-dev` and `--legacy-peer-deps` option if needed:
+2. Install dependencies:
    ```bash
-   cd  frontend
-   npm install some-package --save-dev or  npm install some-package --legacy-peer-deps
+   npm install
    ```
 
-3. Start the development server:
+3. For development, install additional dependencies with the `--save-dev` option if needed:
+   ```bash
+   npm install some-package --save-dev
+   ```
+
+4. Start the development server:
    ```bash
    npm run dev
    ```
 
-4. Build the project for production:
+5. Build the project for production:
    ```bash
    npm run build
    ```
 
-5. Serve the production build:
+6. Serve the production build:
    ```bash
    npm run start
    ```
